@@ -1,0 +1,18 @@
+PODS:
+  - BoxSDK (5.5.0):
+    - BoxSDK/Core (= 5.5.0)
+  - BoxSDK/Core (5.5.0)
+
+DEPENDENCIES:
+  - BoxSDK (~> 5.0)
+
+SPEC REPOS:
+  trunk:
+    - BoxSDK
+
+SPEC CHECKSUMS:
+  BoxSDK: e85dabf6ea03448061bc29004e9aa67b3fd965c5
+
+PODFILE CHECKSUM: de624c7915347842392c4b698b5f630af1aefabd
+
+COCOAPODS: 1.12.1
